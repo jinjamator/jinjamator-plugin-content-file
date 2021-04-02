@@ -1,0 +1,1 @@
+Jinjamator content plugin for file manipulation of plaintext/excel/csv files on local filesystems and HTTP/HTTP/FTP hosted files.
